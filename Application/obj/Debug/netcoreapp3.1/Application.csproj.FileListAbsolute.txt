@@ -1,0 +1,13 @@
+D:\MediatorCleanSolution\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\MediatorCleanSolution\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\MediatorCleanSolution\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\MediatorCleanSolution\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\MediatorCleanSolution\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\MediatorCleanSolution\Application\obj\Debug\netcoreapp3.1\Application.pdb
